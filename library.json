@@ -1,0 +1,22 @@
+{
+  "name": "ArduinoCmdTools",
+  "keywords": "ESP8266, arduino, sensor, config tools",
+  "description": "Arduino Library for simplyfy command exection and other sensor and serial port related tasks",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jarkkules/ArduinoCmdTools.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Jarkkules",
+      "email": "jarkkules@gmail.com",
+      "url": "na",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
